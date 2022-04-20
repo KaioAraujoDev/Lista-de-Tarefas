@@ -1,0 +1,13 @@
+
+.Tela-login{
+    margin-top:35vh;
+    padding: 15px;
+    width: 400px;
+}
+
+@media(max-width:360px)  {
+    .Tela-login{
+        width: 85vw;
+    
+    }
+}

@@ -1,0 +1,45 @@
+body{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}   
+.erro{ 
+    max-width: 400px;
+} 
+#Error-Text{
+    font-size:14px!important;
+}
+
+#icone-paper{
+    position: relative;
+    left: 3.0em;
+}
+
+.sucesso{
+    height: 365px;
+    justify-content: space-around;
+    align-items: center;
+}
+#Text-success{
+    text-align: center;
+}
+.i-sucesso{
+    font-size: 130px!important;
+}
+
+/***********TEMPO*************/
+
+#tempo-cad{
+    height:100px;
+    width:100%;
+    font-size: 35px;
+}
+
+#tempo{
+    height:200px;
+    text-align: center;
+    border-radius: 10px;
+    width:300px;
+}
+
